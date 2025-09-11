@@ -1,0 +1,21 @@
+# Node modules
+node_modules
+package-lock.json
+npm-debug.log
+
+# Cypress test artifacts
+cypressscreenshots
+cypressvideos
+cypressdownloads
+
+# Env  secrets
+.env
+.env.
+
+# Editor files
+.vscode
+.idea
+
+# System files
+.DS_Store
+Thumbs.db
